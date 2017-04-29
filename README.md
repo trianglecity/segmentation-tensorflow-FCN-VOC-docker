@@ -189,28 +189,28 @@ NOTICE 4: MITSceneParsing.pickle ( is reduced and) contains 200 images for train
 	Setting up Saver...
 	
 	Step: 0, Train_loss:371.731
-	2017-04-29 01:43:51.134592 ---> Validation_loss: 443.908
+	 ---> Validation_loss: 443.908
 	
 	Step: 2, Train_loss:145.27
 	
 	Step: 4, Train_loss:95.4019
-	2017-04-29 01:44:14.311602 ---> Validation_loss: 143.643
+	 ---> Validation_loss: 143.643
 	itr = 5
 	itr = 6
 	Step: 6, Train_loss:76.9678
 	
 	Step: 8, Train_loss:41.3895
-	2017-04-29 01:44:44.750389 ---> Validation_loss: 93.1703
+	 ---> Validation_loss: 93.1703
 	
 	Step: 10, Train_loss:44.4673
 	
 	Step: 12, Train_loss:20.1637
-	2017-04-29 01:45:16.592646 ---> Validation_loss: 54.7973
+	 ---> Validation_loss: 54.7973
 	
 	Step: 14, Train_loss:16.8914
 	
 	Step: 16, Train_loss:11.0603
-	2017-04-29 01:45:52.160125 ---> Validation_loss: 12.2637
+	 ---> Validation_loss: 12.2637
 	
 	Step: 18, Train_loss:9.23559
 
